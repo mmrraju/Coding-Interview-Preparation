@@ -24,3 +24,14 @@ Array in java is not tuple in python. While it is true that you cannot add eleme
 
 In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable.
 StringBuilder simply creates a resizable array of all the strings, copying them back to a string only when necessary.
+
+### Advangate of array:
+
+1. Arrays represent multiple data items of the same type using a single name
+2. Elements can be accessed randomly by using the index number
+3. Avoid memory overflow or shortage of memory in arrays
+
+### Disadvantages of array:
+
+1. Insertion and deletion are quite difficult in an array as the elements are sorted in consecutive memory locations and the shifting operations is costly.
+2. Allocating more memory than the requirement leads to wastage of memory space and less allocation of memory also leads to a problem.
