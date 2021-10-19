@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85969afe-ac7c-4df8-9d7d-ee4655e64f37" name="Changes" comment="Simple delete from linked list">
-      <change afterPath="$PROJECT_DIR$/Arrays and Strings/03_URLFy_replace_space.py" afterDir="false" />
+    <list default="true" id="85969afe-ac7c-4df8-9d7d-ee4655e64f37" name="Changes" comment="Replace space in a string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632059818605</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Replace space in a string">
+      <created>1632401624263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632401624263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +194,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic linkedList" />
     <MESSAGE value="Simple delete from linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple delete from linked list" />
+    <MESSAGE value="Replace space in a string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace space in a string" />
   </component>
 </project>
